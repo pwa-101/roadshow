@@ -105,6 +105,11 @@
 > * `install` 이벤트를 통한 리소스 설치
 > * `fetch` 이벤트를 이용한 오프라인 응답
 
+---
+## Links
+
+* [Service Worker 101](https://goo.gl/6l28Zv)
+* [Service Worker 201](https://goo.gl/wWtBq0)
 
 ---
 # Thank you!
