@@ -12,7 +12,9 @@
 
 ### Codelab
 
-- [N(AMP) CARD, 네임카드앱](https://github.com/pwa-workshop/namp-card), See [demo](https://pwa-workshop.github.io/namp-card/)
+- [N(AMP) CARD, 네임카드앱](https://github.com/pwa-workshop/namp-card)
+- [코드랩 가이드 문서](https://github.com/pwa-workshop/namp-card/wiki/%EC%BD%94%EB%93%9C%EB%9E%A9(Codelab)-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AC%B8%EC%84%9C)
+- [동작 데모](https://namp-card.firebaseapp.com) on Firebase Static Hosting
 
 # License
 
