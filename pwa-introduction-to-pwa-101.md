@@ -1,6 +1,7 @@
 <!-- page_number: true -->
 <!-- prerender: true -->
-<!-- $size: 16:9 -->
+<!-- $width: 1980px -->
+<!-- $height: 1080px -->
 
 # 프로그레시브 웹앱, 간단하게 알아보기
 
